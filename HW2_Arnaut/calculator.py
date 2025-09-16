@@ -1,3 +1,9 @@
+
+from decimal import Decimal
+
+def minus(a, b):
+    return a - b
+
 def plus(a, b):
     return a + b
 
