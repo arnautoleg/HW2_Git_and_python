@@ -10,6 +10,11 @@ def plus(a, b):
 def product(a, b):
     return a * b
 
+def divide(a, b):
+    if b!=0:
+        return(a / b)
+    else:
+        return('делить на 0 нельзя!')
 
 def main():
     expression = input()
