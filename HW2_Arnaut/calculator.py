@@ -7,10 +7,8 @@ def minus(a, b):
 def plus(a, b):
     return a + b
 
-
-
-
-
+def product(a, b):
+    return a * b
 
 
 def main():
